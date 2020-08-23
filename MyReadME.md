@@ -11,3 +11,5 @@ Once in the repl,
 ```
 
 but I see CPU throttling all the time ... REPL, is that u?
+
+Yes, a stale REPL, all ok now!
